@@ -1,0 +1,21 @@
+@media(max-width:575.98px){
+    audio{
+        width: 100%;
+    }
+    .audio_cont{
+        // margin: 25px auto !important;
+    }
+    ul.accordion-list li {
+        min-width: 280px !important;
+    }
+    ul.accordion-list li h3 {
+        font-size: 41px !important;
+    }
+    ul.accordion-list li .answer p {
+        font-size: 22px !important;
+        line-height: 27px !important;
+    }
+    ul.accordion-list li {
+        padding: 17px 13px !important;
+    }
+}
