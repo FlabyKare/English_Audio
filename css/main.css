@@ -194,7 +194,7 @@ ul.accordion-list li {
   height: auto;
   background: #384d70;
   border-radius: 15px;
-  padding: 17px 25px 18px 30px;
+  padding: 35px 25px 33px 30px;
   margin: 0 auto 25px auto;
   cursor: pointer;
 }
@@ -262,4 +262,21 @@ ul.accordion-list li .answer p {
   color: #ffffff;
   opacity: 0.9;
   cursor: pointer;
+}
+
+.search_ {
+  text-align: center;
+  z-index: 1000;
+}
+
+#searchbox {
+  outline: none;
+  border: none;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.is-hidden {
+  display: none !important;
 }
